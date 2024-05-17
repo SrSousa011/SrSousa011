@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-# I'm Lucas Sousa , a passionate developer constantly enhancing my skills across various technologies. Currently, I'm diving deep into Android development with Flutter and looking for exciting projects to collaborate on. I have expertise in Java, Angular, React, Oracle Database, and Firebase. Feel free to reach out if you want to discuss tech, need help, or have an interesting project in mind!
+I'm Lucas Sousa , a passionate developer constantly enhancing my skills across various technologies. Currently, I'm diving deep into Android development with Flutter and looking for exciting projects to collaborate on. I have expertise in Java, Angular, React, Oracle Database, and Firebase. Feel free to reach out if you want to discuss tech, need help, or have an interesting project in mind!
 
 🔭 I’m currently working on enhancing my skills in various technologies and always eager to learn more.
 
